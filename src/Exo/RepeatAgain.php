@@ -10,12 +10,13 @@ namespace Exercise\Exo;
 
 /**
  * Class RepeatAgain
+ *
  * @package Exercise\Exo
  */
 class RepeatAgain
 {
+    public function simpleRepeat()
+    {
 
-	public function simpleRepeat(){
-
-	}
+    }
 }
